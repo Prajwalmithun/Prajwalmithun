@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 📫 How to reach me
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://tkushal216.medium.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vanquisher3498)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](tkushal216@gmail.com)
