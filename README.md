@@ -22,5 +22,7 @@ Here are some ideas to get you started:
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=Prajwalmithun&show_icons=true&hide_border=true" alt="Prajwal's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Prajwalmithun.Prajwalmithn" alt="visitors">
 </div>
+
+<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Prajwalmithun.Prajwalmithn" alt="visitors"> 
+    
