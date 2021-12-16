@@ -24,5 +24,8 @@ Here are some ideas to get you started:
     <br />
 </div>
 
-<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Prajwalmithun.Prajwalmithn" alt="visitors"> 
-    
+<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Prajwalmithun.Prajwalmithn" alt="visitors"> -->
+
+📫 How to reach me
+
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://tkushal216.medium.com/)
