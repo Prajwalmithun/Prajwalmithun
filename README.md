@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 </div>
 
 <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Prajwalmithun.Prajwalmithn" alt="visitors"> -->
+
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmithun&theme=dracula&hide=html,css,dockerfile&count_private=true&card_width=495&bg_color=0d0d0d&title_color=ff2626&text_color=ffeaea&icon_color=ff2626)](https://github.com/prajwalmithun)
+</div>
 
 📫 How to reach me
 
