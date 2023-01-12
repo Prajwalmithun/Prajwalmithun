@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Prajwalmithun.Prajwalmithn" alt="visitors"> -->
 
 
-<div align="center">
+<!--<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalmithun&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="top languages" />
-</div>
+</div>-->
 
 
 📫 How to reach me
