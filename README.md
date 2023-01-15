@@ -13,21 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📈 Stats
+## Stats📊
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalmithun&show_icons=true&theme=transparent)
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prajwalmithun&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-   <!-- <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Prajwalmithun&show_icons=true&hide_border=true" alt="Prajwal's GitHub Stats">
-    <br /> -->
-</div>
-
-<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Prajwalmithun.Prajwalmithn" alt="visitors"> -->
-
-
-<!--<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalmithun&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="top languages" />
-</div>-->
 
 
 📫 How to reach me
