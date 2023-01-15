@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Prajwalmithun/Prajwalmithun/main/intro.gif" alt="👋 Hi there! I'm Prajwal" title="👋 Hi there! I'm Prajwal"/>
+<!--<img src="https://raw.githubusercontent.com/Prajwalmithun/Prajwalmithun/main/intro.gif" alt="👋 Hi there! I'm Prajwal" title="👋 Hi there! I'm Prajwal"/> -->
+
+<img src="https://raw.githubusercontent.com/Prajwalmithun/Prajwalmithun/main/github_intro.gif" alt="👋 Hi there! I'm Prajwal" title="👋 Hi there! I'm Prajwal"/>
 
 ## Stats📊
 ![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalmithun&show_icons=true&theme=transparent)
