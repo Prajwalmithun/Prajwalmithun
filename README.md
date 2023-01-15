@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning DevOps and Cloud
+<img src="https://raw.githubusercontent.com/Prajwalmithun/Prajwalmithun/main/intro.gif" alt="👋 Hi there! I'm Prajwal" title="👋 Hi there! I'm Prajwal"/>
 <!--
 **Prajwalmithun/Prajwalmithun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
