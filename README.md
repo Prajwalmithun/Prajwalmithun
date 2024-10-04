@@ -95,13 +95,16 @@ I'm a passionate DevOps Engineer with hands-on experience in cloud platforms, au
 
 ---
 
-## Stats📊
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalmithun&show_icons=true&theme=transparent)
+## Stats📊 and Top Languages🧑‍💻
 
-## Top Languages🧑‍💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalmithun)](https://github.com/Prajwalmithun/github-readme-stats)
+<div align="center">
 
+| ![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalmithun&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalmithun&show_icons=true&theme=transparent) |
+|---|---|
 
+</div>
+
+---
 📫 How to reach me
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://prajwalt.medium.com/)
